@@ -1,13 +1,8 @@
-**Status:** Archive (code is provided as-is, no updates expected)
+# Self implementation of MADDPG in Multi-Agent Particle Environment
 
-A maintained version of these environments, with numerous fixes, is included with PettingZoo (https://github.com/Farama-Foundation/PettingZoo , https://www.pettingzoo.ml/mpe)
+A simple self implementation of MADDPG in multi-agent particle world with a continuous observation and discrete action space, along with some basic simulated physics.
 
-# Multi-Agent Particle Environment
-
-A simple multi-agent particle world with a continuous observation and discrete action space, along with some basic simulated physics.
-Used in the paper [Multi-Agent Actor-Critic for Mixed Cooperative-Competitive Environments](https://arxiv.org/pdf/1706.02275.pdf).
-
-## Getting started:
+## For use the environment:
 
 - To install, `cd` into the root directory and type `pip install -e .`
 
