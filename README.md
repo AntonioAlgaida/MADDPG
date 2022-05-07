@@ -2,6 +2,11 @@
 
 A simple self implementation of MADDPG in multi-agent particle world with a continuous observation and discrete action space, along with some basic simulated physics.
 
+After training:
+
+![MADDPG](https://github.com/AntonioAlgaida/MADDPG/blob/main/Gifs/world_comm_ddpg_comp320--1-.gif"MADDPG") ![DDPG](https://github.com/AntonioAlgaida/MADDPG/blob/main/Gifs/world_comm_ddpg_comp320--1-.gif "DDPG")
+
+
 ## For use the environment:
 
 - To install, `cd` into the root directory and type `pip install -e .`
