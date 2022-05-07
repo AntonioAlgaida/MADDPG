@@ -4,7 +4,7 @@ A simple self implementation of MADDPG in multi-agent particle world with a cont
 
 After training:
 
-![MADDPG](https://github.com/AntonioAlgaida/MADDPG/blob/main/Gifs/world_comm_ddpg_comp320--1-.gif"MADDPG") ![DDPG](https://github.com/AntonioAlgaida/MADDPG/blob/main/Gifs/world_comm_ddpg_comp320--1-.gif "DDPG")
+![MADDPG](https://github.com/AntonioAlgaida/MADDPG/blob/main/Gifs/world_comm_ddpg_comp320--1-.gif "MADDPG") ![DDPG](https://github.com/AntonioAlgaida/MADDPG/blob/main/Gifs/world_comm_ddpg_comp320--1-.gif "DDPG")
 
 
 ## For use the environment:
